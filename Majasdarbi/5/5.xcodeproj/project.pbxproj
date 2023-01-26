@@ -43,8 +43,6 @@
 		526268E62982B15F00685072 = {
 			isa = PBXGroup;
 			children = (
-				526268FC2982B35E00685072 /* Bank_Account.rtf */,
-				526268F92982B19C00685072 /* Header.h */,
 				526268F12982B15F00685072 /* 5 */,
 				526268F02982B15F00685072 /* Products */,
 			);
@@ -61,6 +59,8 @@
 		526268F12982B15F00685072 /* 5 */ = {
 			isa = PBXGroup;
 			children = (
+				526268FC2982B35E00685072 /* Bank_Account.rtf */,
+				526268F92982B19C00685072 /* Header.h */,
 				526268F22982B15F00685072 /* main.cpp */,
 			);
 			path = 5;
