@@ -21,7 +21,7 @@ int main() {
     
     cout<<vards<< endl;
     
-    cout<<" Varda burtu skaits:"<< vards.size()<< endl; // simbolu skaits 
+    cout<<" Varda burtu skaits:"<< vards.size()<< endl; // simbolu skaits
 
     return 0;
 }
