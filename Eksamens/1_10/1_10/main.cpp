@@ -5,6 +5,8 @@
 //  Created by Eriks Karklins on 28/01/2023.
 //Programmā pieprasa lietotāja vārdu un uzvārdu (vienā rindā, atdalītus ar atstarpi) un izvada kopējo garumu (simbolu skaitu) bez atstarpes.
 
+
+
 #include <iostream>
 #include <string>
 using namespace std;
