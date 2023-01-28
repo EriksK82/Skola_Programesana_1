@@ -20,21 +20,25 @@ int main() {
     cout << " ievadiet otro skaitli: "<< endl;
     cin>> y;
     
-    cout<< " ievadiet darbības veidu +, -, *"<<endl;
+    cout<< " ievadiet darbības veidu +, -, *, /"<<endl;
     
     cin>>z;
     
     switch (z) {
         case '+':
-            cout<<x<<"+"<<y<<"="<<x+y;
+            cout<<x<<"+"<<y<<"="<<x+y<< endl;
             break;
             
         case '-':
-            cout<<x<<"-"<<y<<"="<<x-y;
+            cout<<x<<"-"<<y<<"="<<x-y << endl;
             break;
             
         case '*':
-            cout<<x<<"*"<<y<<"="<<x*y;
+            cout<<x<<"*"<<y<<"="<<x*y << endl;
+            break;
+            
+        case '/':
+            cout<<x<<"/"<<y<<"="<<x/y << endl;
             break;
             
         default:
