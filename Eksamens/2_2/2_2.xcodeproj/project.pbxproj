@@ -41,7 +41,7 @@
 		52CF7B522985992300890DE5 = {
 			isa = PBXGroup;
 			children = (
-				52CF7B5D2985992300890DE5 /* 10_2 */,
+				52CF7B5D2985992300890DE5 /* 2_2 */,
 				52CF7B5C2985992300890DE5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		52CF7B5D2985992300890DE5 /* 10_2 */ = {
+		52CF7B5D2985992300890DE5 /* 2_2 */ = {
 			isa = PBXGroup;
 			children = (
 				52CF7B5E2985992300890DE5 /* main.cpp */,
 			);
-			path = 10_2;
+			path = 2_2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 52CF7B562985992300890DE5 /* Build configuration list for PBXProject "10_2" */;
+			buildConfigurationList = 52CF7B562985992300890DE5 /* Build configuration list for PBXProject "2_2" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -254,7 +254,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		52CF7B562985992300890DE5 /* Build configuration list for PBXProject "10_2" */ = {
+		52CF7B562985992300890DE5 /* Build configuration list for PBXProject "2_2" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				52CF7B602985992300890DE5 /* Debug */,

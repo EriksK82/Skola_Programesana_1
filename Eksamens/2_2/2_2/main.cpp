@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  10_2
+//  2_2
 //
 //  Created by Eriks Karklins on 28/01/2023.
 //Ievadiet divus skaitļus un simbolu. Atkarībā no ievadītā simbola: + - * / (сhar) jāizpilda kādu no matemātiskajām operācijām (izmantojot switch).
