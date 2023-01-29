@@ -4,6 +4,7 @@
 //
 //  Created by Eriks Karklins on 29/01/2023.
 // Uzrakstiet funkciju, kas kā parametru saņem kvadrāta malas garumu un izvada kvadrāta perimetru un laukumu.
+
 #include <iostream>
 
 using namespace std;
