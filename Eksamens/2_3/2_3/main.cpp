@@ -19,7 +19,7 @@ int main() {
     
     for (i=0; i<10; i++) {
 
-        num[i] = (-10 + rand() %20);// katram ciparam pozicija un random nr.
+        num[i] = (-10 + rand() %20);// katram ciparam pozicija [0],[1],[2] ..... [9]un random nr.
         
         cout<< num[i]<<", ";
     }
@@ -28,7 +28,7 @@ int main() {
     
     for (i=0; i<10; i++) {
 
-        apg[i] = num[10-i-1];// apgriežam pirmais cipars ir pēdējais no iepriekšējā (10-0-1=9 pozicija)
+        apg[i] = num[10-i-1];// apgriežam [9] kļūs par [0] (10-0-1=9 pozicija)
         
         cout<< apg[i]<<", ";
     }
