@@ -14,7 +14,7 @@ using namespace std;
 
 int main() {
     
-    int i,apg[500],num[500];
+    int i,apg[10],num[10];
     
     
     for (i=0; i<10; i++) {
