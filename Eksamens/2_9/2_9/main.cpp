@@ -51,8 +51,16 @@ void lielakais (){
 }
 
 void maina(){
+
+    k[p]=m;
+    k[c]=l;
     
+    for (i=0;i<15;i++){
+        cout<<k[i]<<" ";
+    }
     
+
+
 }
 
 
@@ -67,24 +75,12 @@ int main() {
     cout<<endl;
     
     lielakais();
+    
     cout<<endl;
 
+    maina();
 
-//    for (i=0; i<15; i++) {
-//
-//        cout<<k[i]<<" ";
-//
-//    }
+    cout<<endl;
 
-    
-    
-//    cout<< endl;
-//
-//    mazakais();
-//
-//    cout<< endl;
-//
-//    lielakais();
-    
     return 0;
 }
