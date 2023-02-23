@@ -10,7 +10,7 @@
 
 using namespace std;
 
-int i,l,p,k,c, masivs[20];
+int i,l,p,masivs[20];
 
 void virkne(){
     
